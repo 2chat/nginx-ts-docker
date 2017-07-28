@@ -1,6 +1,8 @@
 NGINX TS Dockerfile
 =====================
 
+Based on this repo [https://github.com/brocaar/nginx-rtmp-dockerfile](https://github.com/brocaar/nginx-rtmp-dockerfile).
+
 This Dockerfile installs NGINX configured with `nginx-ts-module`, ffmpeg
 and some default settings for HLS live streaming.
 
@@ -65,3 +67,4 @@ Links
 * https://github.com/arut/nginx-ts-module
 * https://www.ffmpeg.org/
 * https://obsproject.com/
+* https://github.com/brocaar/nginx-rtmp-dockerfile
